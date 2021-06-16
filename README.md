@@ -8,6 +8,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Non-clothing Virtual Try-on](#non-clothing-virtual-try-on)
 - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
+- [Virtual Try-on Surveys](#Virtual-Try-on-Surveys)
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Related Repositories](#Related-Repositories)
 
@@ -15,6 +16,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 ## Image-based (2D) Virtual Try-on
 
   #### CVPR 2021
+  - Toward Accurate and Realistic Outfits Visualization with Attention to Details - [Paper](https://arxiv.org/abs/2106.06593)
   - Parser-Free Virtual Try-on via Distilling Appearance Flows - [Paper](https://arxiv.org/pdf/2103.04559.pdf), [Code/Data/Model](https://github.com/geyuying/PF-AFN)
   - VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization - [Paper](https://arxiv.org/pdf/2103.16874.pdf)
   - Disentangled Cycle Consistency for Highly-realistic Virtual Try-On - [Paper](https://arxiv.org/pdf/2103.09479.pdf), [Code/Data/Model](https://github.com/ChongjianGE/DCTON)
@@ -195,6 +197,14 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - THUman Dataset - [Project](http://www.liuyebin.com/deephuman/deephuman.html)
 - Garment Dataset, Wang et al. 2018 - [Project](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/)
 
+
+## Virtual Try-on Surveys
+- Fashion Meets Computer Vision: A Survey - [Paper](https://arxiv.org/abs/2003.13988)
+- fAshIon after fashion: A Report of AI in Fashion - [Paper](https://arxiv.org/abs/2105.03050)
+- Deep Learning Meets Fashion: A Look into Virtual Try-on Solutions - [Report](http://www.aui.ma/sse-capstone-repository/pdf/fall-2020/DEEP%20LEARNING%20MEETS%20FASHION-A%20LOOK%20INTO%20VIRTUAL%20TRY-ON%20SOLUTIONS.pdf)
+- Image-Based Virtual Try-on System: A Survey of Deep Learning-Based Methods - [Paper](https://www.techrxiv.org/articles/preprint/Image-Based_Virtual_Try-on_System_A_Survey_of_Deep_Learning-Based_Methods/13904099)
+- Fashion analysis and understanding with artificial intelligence - [Paper](https://www.sciencedirect.com/science/article/pii/S0306457319315511?via%3Dihub)
+- Fashion Meets AI Technology - [Paper](https://link.springer.com/chapter/10.1007%2F978-3-319-99695-0_31)
 
 ## Related Conference Workshops
 
