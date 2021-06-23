@@ -9,6 +9,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Pose-Guided Human Synthesis](#pose-guided-human-synthesis)
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
 - [Virtual Try-on Surveys](#Virtual-Try-on-Surveys)
+- [Industrial Virtual Try-on](#Industrial-Virtual-Try-on)
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Related Repositories](#Related-Repositories)
 
@@ -205,6 +206,16 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Image-Based Virtual Try-on System: A Survey of Deep Learning-Based Methods - [Paper](https://www.techrxiv.org/articles/preprint/Image-Based_Virtual_Try-on_System_A_Survey_of_Deep_Learning-Based_Methods/13904099)
 - Fashion analysis and understanding with artificial intelligence - [Paper](https://www.sciencedirect.com/science/article/pii/S0306457319315511?via%3Dihub)
 - Fashion Meets AI Technology - [Paper](https://link.springer.com/chapter/10.1007%2F978-3-319-99695-0_31)
+
+## Industrial Virtual Try-on
+- Revery.AI - [Website](https://revery.ai/index.html)
+- FORMA - [Website](https://www.formatech.com/)
+- Vue.ai - [Website](https://vue.ai/products/on-model-style-visualization-tool/)
+- zeekit - [Website](https://zeekit.me/)
+- triMirror - [Website](https://www.trimirror.com/)
+- Style3D - [Website](https://home.style3d.com/)
+- 3DLOOK - [Website](https://3dlook.me/)
+- astrafit - [Website](https://www.astrafit.com/)
 
 ## Related Conference Workshops
 
