@@ -10,6 +10,7 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - [Datasets for Virtual Try-on](#Datasets-for-Virtual-Try-on)
 - [Virtual Try-on Surveys](#Virtual-Try-on-Surveys)
 - [Industrial Virtual Try-on](#Industrial-Virtual-Try-on)
+- [Online Clothes Shopping Website](#Online-Clothes-Shopping-Website)
 - [Related Conference Workshops](#Related-Conference-Workshops)
 - [Related Repositories](#Related-Repositories)
 
@@ -225,6 +226,9 @@ A curated list of awesome research papers, projects, code, dataset, workshops et
 - Style3D - [Website](https://home.style3d.com/)
 - 3DLOOK - [Website](https://3dlook.me/)
 - astrafit - [Website](https://www.astrafit.com/)
+
+## Online Clothes Shopping Website
+- NORDSTROM - [Website](https://www.nordstrom.com/)
 
 ## Related Conference Workshops
 
